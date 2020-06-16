@@ -17,6 +17,7 @@ namespace Prueba_conocimiendo
             conectar.Open();
 
             return conectar;
+
         }
     }
 }
